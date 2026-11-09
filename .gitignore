@@ -1,0 +1,11 @@
+*.db
+*.sqlite
+*.sqlite3
+*.key
+*.crt
+*.pem
+.env
+config.json
+logs/
+*.log
+.DS_Store
